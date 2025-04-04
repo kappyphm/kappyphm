@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kappyphm
 - 👀 I’m interested in Photography, Vietnam Traditional Instruments
-- 🌱 I’m currently learning Java, NodeJS, Python
+- 🌱 I’m currently learning Java, NodeJS, Python, Solidity
 - 📫 Email: me.khanhphm@gmail.com
 - ⚡ Fun fact: Love OWL
 
