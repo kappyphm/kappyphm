@@ -48,7 +48,7 @@
 ## 🎵 Beyond Coding
 
 - 🎹 Instruments: Piano, Flute, Erhu, Violin  
-- 🎯 Sports: Shooting, Slingshot  
+- 🎯 Sports: Shooting, Slingshot , Ping pong
 - 🦉 Owl lover & owl keeper  
 - 📷 Photography & Astronomy enthusiast
 
@@ -61,8 +61,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kappykhanh&show_icons=true&theme=tokyonight" alt="Kappy's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kappykhanh&theme=tokyonight" />
-</p>
