@@ -1,23 +1,23 @@
-<h1 align="center">👋 Xin chào, mình là Phạm Gia Khánh (Kappy)</h1>
+<h1 align="center">👋 Hi there, I'm Phạm Gia Khánh (Kappy)</h1>
 <p align="center">
-  🔭 Định hướng trở thành một <strong>Blockchain Developer</strong> đích thực!<br/>
-  💡 Đam mê công nghệ, nghệ thuật và những điều khác biệt.
+  🔭 Aspiring to become a professional <strong>Blockchain Developer</strong>!<br/>
+  💡 Passionate about technology, art, and a touch of the extraordinary.
 </p>
 
 ---
 
-## 🚀 Về mình
+## 🚀 About Me
 
-- 🎓 Sinh viên ngành **Kỹ thuật phần mềm - FPT University**
-- 💻 Công nghệ sử dụng:
-  - **Backend:** Java Core, NodeJS, NestJS, Spring Java
+- 🎓 Software Engineering student at **FPT University**
+- 💻 Tech Stack:
+  - **Backend:** Java Core, NodeJS, NestJS, Spring Boot
   - **Frontend:** NextJS, VueJS, React
-  - **Blockchain/Web3:** Solidity, ether.js, Foundry, Remix IDE
-  - **IoT:** Kinh nghiệm tích hợp với các hệ thống nhúng
+  - **Blockchain/Web3:** Solidity, Ether.js, Foundry, Remix IDE
+  - **IoT:** Experienced in embedded system integration
 
-- 🧭 **Định hướng nghề nghiệp:**
-  - 🌐 Blockchain & Web3 Developer
-  - 🧩 Backend Developer với Java hoặc NestJS
+- 🧭 **Career Goals:**
+  - 🌐 Professional Blockchain & Web3 Developer
+  - 🧩 Backend Engineer (Java / NestJS)
 
 ---
 
@@ -27,36 +27,37 @@
 
 ---
 
-## 🏆 Thành tích nổi bật
+## 🏆 Achievements
 
-- 🥇 **Giải nhất cấp tỉnh (2 lần)** – Cuộc thi khoa học kỹ thuật & tin học trẻ
-- 🥉 **Giải khuyến khích toàn quốc** – Tin học trẻ toàn quốc
-- 🏅 **Top dự án sáng tạo toàn quốc** – Dự án blockchain xác thực và lưu trữ văn bằng
-- 📜 **Chứng chỉ chương trình KS57 – Coursera FPT**
-
----
-
-## 🎯 Mục tiêu sắp tới
-
-- 🌱 Trở thành một **Blockchain Developer chuyên sâu**
-- 📚 Không ngừng học hỏi về bảo mật hợp đồng thông minh, hệ sinh thái Ethereum và các giải pháp L2
-- 🤝 Kết nối với cộng đồng Dev để học hỏi và phát triển
+- 🥇 **2x First Prize (Provincial)** – Science & Informatics Competitions
+- 🥉 **National Encouragement Prize** – Young Informatics Contest
+- 🏅 **Top Blockchain Project** – National Science and Innovation Fair  
+  (Blockchain-based diploma storage and verification system)
+- 📜 **KS57 Coursera Certificate** – FPT Education
 
 ---
 
-## 🎵 Sở thích ngoài lập trình
+## 🎯 Future Goals
 
-- 🎹 Chơi nhạc cụ: Piano, Sáo, Đàn nhị, Violin
-- 🔫 Thể thao: Bắn súng thể thao, bắn ná
-- 🦉 Yêu cú, thích nuôi cú và tìm hiểu về hành vi động vật
-- 📷 Nhiếp ảnh & khám phá bầu trời đêm (thiên văn học)
+- 🌱 Become a proficient **Blockchain Developer**
+- 🔒 Master smart contract security & Ethereum-based ecosystems
+- 🤝 Connect and collaborate with global Web3 developer communities
 
 ---
 
-## 📬 Liên hệ
+## 🎵 Beyond Coding
 
-📩 Thông tin liên hệ sẽ cập nhật sau.  
-👉 Đừng ngại kết nối với mình khi bạn cũng yêu cú hoặc đang làm Web3!
+- 🎹 Instruments: Piano, Flute, Erhu, Violin  
+- 🎯 Sports: Shooting, Slingshot  
+- 🦉 Owl lover & owl keeper  
+- 📷 Photography & Astronomy enthusiast
+
+---
+
+## 📬 Contact
+
+📩 Contact details coming soon.  
+👉 Feel free to reach out if you're into Web3, love owls, or just want to jam with code and music!
 
 ---
 
