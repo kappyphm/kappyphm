@@ -54,10 +54,25 @@
 
 ---
 
-## 📬 Contact
+## 📬 Contact Me
 
-📩 Contact details coming soon.  
-👉 Feel free to reach out if you're into Web3, love owls, or just want to jam with code and music!
+<p align="left">
+  <a href="https://facebook.com/giakhanh30125" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <br>
+  <a href="mailto:work.khanhphm@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <br>
+  <a href="https://www.linkedin.com/in/khanhphm30125/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kappyphm&show_icons=true&theme=tokyonight" alt="Kappy's GitHub stats" />
+</p>
