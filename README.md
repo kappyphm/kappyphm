@@ -33,6 +33,7 @@
 - 🥉 **National Encouragement Prize** – Young Informatics Contest
 - 🏅 **Top Blockchain Project** – National Science and Innovation Fair  
   (Blockchain-based diploma storage and verification system)
+- 🎓 **Awarded 70% Scholarship** – FPT University for academic excellence  
 - 📜 **KS57 Coursera Certificate** – FPT Education
 
 ---
